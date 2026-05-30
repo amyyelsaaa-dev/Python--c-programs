@@ -1,2 +1,2 @@
 # Python--c-programs
-My python and c codes
+python and c codes
